@@ -15,3 +15,7 @@
 # Chapter 3
 
 - Functions
+
+# Chapter 4
+
+- Ownership in Rust
