@@ -7,6 +7,10 @@ name = "compound_data_types"
 version = "0.1.0"
 
 [[package]]
+name = "functions"
+version = "0.1.0"
+
+[[package]]
 name = "intro"
 version = "0.1.0"
 
