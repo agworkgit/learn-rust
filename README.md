@@ -6,5 +6,12 @@
 - Installation (macOS)
 - Rust Compiler
 - Cargo Package Manager
+- Primitive Data Types
 
 # Chapter 2
+
+- Compound Data Types
+
+# Chapter 3
+
+- Functions
