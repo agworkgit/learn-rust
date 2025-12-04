@@ -1,0 +1,3 @@
+[workspace]
+members = ["intro", "primitive_data_types"]
+resolver = "2"
