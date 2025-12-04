@@ -1,4 +1,4 @@
-# Learn Rust Outline
+# Learning Rust
 
 ## Chapter 1
 
